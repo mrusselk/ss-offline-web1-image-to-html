@@ -136,7 +136,9 @@ a, a:hover, a:focus, a:visited{
 	margin-bottom: 10px;
 	letter-spacing: 2px;
 }
-
+.slider-caption h1 b{
+	font-weight: 700;
+}
 .slider-caption p{
 	font-size: 30px;
 	line-height: 60px;
