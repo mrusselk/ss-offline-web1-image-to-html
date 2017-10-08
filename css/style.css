@@ -51,6 +51,7 @@ a, a:hover, a:focus, a:visited{
 .header{
 	background-color: #262626;
 	min-height: 79px;
+	overflow: hidden;
 }
 
 .logo{
@@ -116,18 +117,13 @@ a, a:hover, a:focus, a:visited{
 	color:#d9d9d9;
 	min-height: 395px;
 	overflow: hidden;
-	position: relative;
 }
 
 .slider-caption{
 	text-align:center;
 	width:60%;
-	margin:0 auto;
-	position: absolute;
-	top:50%;
-	left:50%;
-	transform: translate(-50%,-55%);
-
+	margin:55px auto;
+	
 }
 
 .slider-caption h1{
